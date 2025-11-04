@@ -1,6 +1,6 @@
 # Funciones Personalizadas en PostgreSQL
 
-Este documento forma parte de una clase universitaria sobre bases de datos, enfocada en el uso de funciones personalizadas en PostgreSQL. Las funciones permiten encapsular lógica reutilizable y son fundamentales para el desarrollo de aplicaciones robustas y mantenibles.
+Las funciones permiten encapsular lógica reutilizable y son fundamentales para el desarrollo de aplicaciones robustas y mantenibles.
 
 ---
 
